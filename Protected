@@ -36,7 +36,7 @@ name.BorderColor3 = Color3.fromRGB(6, 0, 2)
 name.Position = UDim2.new(-0.0299999993, 0, -0.0549999997, 0)
 name.Size = UDim2.new(0, 302, 0, 35)
 name.Font = Enum.Font.Unknown
-name.Text = " Doge Hub "
+name.Text = " GRP HUB "
 name.TextColor3 = Color3.fromRGB(0, 0, 0)
 name.TextSize = 22.000
 
